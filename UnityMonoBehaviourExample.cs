@@ -2,7 +2,7 @@
 
 using UnityEngine;
 
-public class SampleMonoBehaviour : MonoBehaviour
+public class UnityMonoBehaviourExample : MonoBehaviour
 {
   private void Awake() { }
   
