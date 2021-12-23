@@ -1,3 +1,5 @@
+// Also see : https://docs.unity3d.com/ScriptReference/ScriptableObject.html
+
 using UnityEngine;
 
 [CreateAssetMenu(menuName = "Scriptable Objects/Sample")]
